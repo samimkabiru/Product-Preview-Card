@@ -3,3 +3,24 @@
 *::after {
   box-sizing: border-box;
 }
+
+/* Typography */
+html {
+  font-size: 62.5;
+}
+
+body {
+  font-size: 1.4rem;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  color: hsl(228, 12%, 48%);
+}
+
+h1 {
+  font-family: "Fraunces", serif;
+  color: hsl(212, 21%, 14%);
+  margin: 1rem 0 1.3rem;
+}
+
+p {
+  margin: 0;
+}
