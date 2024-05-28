@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samimkabiru/Product-Preview-Card.git)
-- Live Site URL: [Add live site URL here](previewproduct.vercel.app)
+- Solution URL: [Product preview card](https://github.com/samimkabiru/Product-Preview-Card.git)
+- Live Site URL: [product preview card](previewproduct.vercel.app)
 
 ## My process
 
